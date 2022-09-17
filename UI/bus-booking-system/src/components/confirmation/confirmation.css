@@ -1,0 +1,20 @@
+.main-card{
+    width: 10cm;
+    height : 10cm;
+    margin: auto;
+}
+
+.internal-card{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Courier New';
+    font-size: large;
+    background-color: lightgreen;
+    height : 10cm;
+}
+
+.data{
+    font-family: 'Times New Roman';
+    font-size: medium;
+}
